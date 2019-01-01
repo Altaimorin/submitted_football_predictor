@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Previous Work}{}% 2
+\BOOKMARK [1][-]{section.3}{Data}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Time-Frame}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Basic Statistics}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Advanced Statistics}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Data Collection}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Methods}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Genetic Algorithms}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Representation and Initialization}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Crossover and Mutation}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.4}{Fitness}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.5}{Overview of Genetic Framework}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.6}{Neural Network Motivation}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.7}{Neural Network Structure}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.8}{Implementation}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Results}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{Fitness Evolution}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{Prediction Statistics and Comparison with Vegas}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.3}{Conference Game Case Study}{section.5}% 20
+\BOOKMARK [1][-]{section.6}{Future Work}{}% 21
+\BOOKMARK [2][-]{subsection.6.1}{Differentiate hidden layers}{section.6}% 22
+\BOOKMARK [2][-]{subsection.6.2}{Vary the dropout values}{section.6}% 23
+\BOOKMARK [2][-]{subsection.6.3}{Test different crossover and mutation rates}{section.6}% 24
+\BOOKMARK [2][-]{subsection.6.4}{Reconsider the fitness function}{section.6}% 25
