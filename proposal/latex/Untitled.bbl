@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{favsport}
+L.~Shannon-Missal.
+\newblock Pro football is still america's favorite sport.
+\newblock 2016.
+
+\bibitem{ncaa}
+E.~Irick.
+\newblock Ncaa sports sponsorship and participation rates report.
+\newblock 2014.
+
+\bibitem{forcast}
+John wiley.
+\newblock Forecasting methods and applications.
+\newblock 2008.
+
+\bibitem{blaikie2011nfl}
+Andrew~D Blaikie, Gabriel~J Abud, John~A David, and R~Drew Pasteur.
+\newblock Nfl \& ncaa football prediction using artificial neural networks.
+\newblock In {\em Proceedings of the Midstates Conference for Undergraduate
+  Research in Computer Science and Mathematics, Denison University, Granville,
+  OH}, 2011.
+
+\bibitem{david2011nfl}
+John~A David, R~Drew Pasteur, M~Saif Ahmad, and Michael~C Janning.
+\newblock Nfl prediction using committees of artificial neural networks.
+\newblock {\em Journal of Quantitative Analysis in Sports}, 7(2), 2011.
+
+\bibitem{purucker1996neural}
+Michael~C Purucker.
+\newblock Neural network quarterbacking.
+\newblock {\em IEEE Potentials}, 15(3):9--15, 1996.
+
+\bibitem{bashiri2011tuning}
+M~Bashiri and A~Farshbaf Geranmayeh.
+\newblock Tuning the parameters of an artificial neural network using central
+  composite design and genetic algorithm.
+\newblock {\em Scientia Iranica}, 18(6):1600--1608, 2011.
+
+\bibitem{mitchell1995genetic}
+Melanie Mitchell.
+\newblock Genetic algorithms: An overview.
+\newblock {\em Complexity}, 1(1):31--39, 1995.
+
+\end{thebibliography}
